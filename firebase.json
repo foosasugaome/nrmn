@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "nrmn_exported",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
