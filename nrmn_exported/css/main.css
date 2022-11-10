@@ -36,6 +36,7 @@ h2.hero-subheading {
 }
 
 h2.articles-heading {
+  float: none;
   color: #fffff7;
   font-weight: 900;
   font-size: 48px;
